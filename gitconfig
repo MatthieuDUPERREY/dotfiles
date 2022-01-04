@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = matth.duperrey@gmail.com
+	name = matthieu duperrey
